@@ -140,7 +140,7 @@
       n.r(t),
         n.d(t, {
           default: function () {
-            return views_LoxoNFT;
+            return views_LOXONFT;
           },
         });
       var a = n(57437),
@@ -156,7 +156,7 @@
         m = n(41472),
         x = n(54968),
         y = n(37416),
-        extras_ManageLoxoNFT = (e) => {
+        extras_ManageLOXONFT = (e) => {
           let {
               updateModal: t,
               staked: n,
@@ -285,7 +285,7 @@
               let n = F.length > 0 ? F[0].toString() : "N/A";
               H(
                 "Unstake Successfully",
-                "You Unstake LoxoNFT # ".concat(n),
+                "You Unstake LOXONFT # ".concat(n),
                 1,
                 t
               ),
@@ -319,7 +319,7 @@
                   children: [
                     (0, a.jsx)("span", {
                       className: "modalTitle",
-                      children: "Manage LoxoNFT",
+                      children: "Manage LOXONFT",
                     }),
                     (0, a.jsx)("button", {
                       onClick: () => t(!1),
@@ -359,7 +359,7 @@
                   children: [
                     (0, a.jsx)("p", {
                       className: "text-[12px] text-[#7e7e7e] leading-[16px]",
-                      children: "Select Your LoxoNFTs",
+                      children: "Select Your LOXONFTs",
                     }),
                     (0, a.jsx)("button", {
                       onClick: () => S([]),
@@ -438,7 +438,7 @@
                                         children: ["NFT #", e.toString()],
                                       }),
                                       (0, a.jsx)("span", {
-                                        children: " LoxoNFT",
+                                        children: " LOXONFT",
                                       }),
                                     ],
                                   }),
@@ -473,7 +473,7 @@
                                         children: ["NFT#", e.toString()],
                                       }),
                                       (0, a.jsx)("span", {
-                                        children: " LoxoNFT",
+                                        children: " LOXONFT",
                                       }),
                                     ],
                                   }),
@@ -498,7 +498,7 @@
                           disabled: 0 === F.length,
                           className:
                             "mt-[25px] disabled:opacity-50 disabled:bg-base-200 disabled:shadow-none disabled:cursor-not-allowed disabled:text-accent createBtn w-full",
-                          children: "Stake LoxoNFT",
+                          children: "Stake LOXONFT",
                         }),
                         (0, a.jsx)(p.Z, {
                           title: "Stake",
@@ -565,7 +565,7 @@
                             Z(!0), unstakeHandler(F);
                           },
                           disabled: 0 === F.length,
-                          children: "Unstake LoxoNFT",
+                          children: "Unstake LOXONFT",
                         }),
                         (0, a.jsx)(p.Z, {
                           title: "Unstake",
@@ -582,7 +582,7 @@
                                   children: [
                                     (0, a.jsxs)("span", {
                                       children: [
-                                        "Unstake LoxoNFT #",
+                                        "Unstake LOXONFT #",
                                         " ",
                                         F.length > 0 ? F[0].toString() : "N/A",
                                         " ",
@@ -606,7 +606,7 @@
                   children: [
                     (0, a.jsx)("div", {
                       className: "w-full flex py-2 border-b",
-                      children: "Stake LoxoNFT",
+                      children: "Stake LOXONFT",
                     }),
                     (0, a.jsxs)("div", {
                       className: "w-1/2 flex flex-col text-stone-400 py-1",
@@ -631,7 +631,7 @@
                         }),
                         (0, a.jsx)("div", {
                           className: "text-xs",
-                          children: "LoxoNFTs In Your Wallet",
+                          children: "OmnixNFTs In Your Wallet",
                         }),
                       ],
                     }),
@@ -642,7 +642,7 @@
           );
         },
         f = n(52098),
-        LoxoNFT_TopBarInfo = (e) => {
+        LOXONFT_TopBarInfo = (e) => {
           let {
               address: t,
               isLoading: n,
@@ -674,7 +674,7 @@
                 children: [
                   (0, a.jsx)("span", {
                     className: "text-blue",
-                    children: "Stake Your LoxoNFT",
+                    children: "Stake Your LOXONFT",
                   }),
                   (0, a.jsx)("span", {
                     className: "text-white ml-2",
@@ -688,11 +688,11 @@
                   (0, a.jsx)("p", {
                     className: "pageContent hidden lg:block",
                     children:
-                      "Stake your LoxoNFT for weekly trading fees and royalties.",
+                      "Stake your LOXONFT for weekly trading fees and royalties.",
                   }),
                   (0, a.jsxs)("div", {
                     onClick: () => {
-                      window.open("https://loxodrome.xyz/mint");
+                      window.open("https://omnix-ai-cs.vercel.app/mint");
                     },
                     className: "".concat(
                       i().stakeBtn,
@@ -705,7 +705,7 @@
                           fontFamily: "Outfit-SemiBold",
                           fontSize: "20px",
                         },
-                        children: "Go To Mint LoxoNFT",
+                        children: "Go To Mint LOXONFT",
                       }),
                       (0, a.jsx)("span", {
                         className: i().arrowRightHoverEffect,
@@ -724,7 +724,7 @@
                       (0, a.jsx)("p", {
                         className:
                           "text-[14px] leading-[24px] text-[#7e7e7e] opacity-80",
-                        children: "Total LoxoNFT Staked",
+                        children: "Total LOXONFT Staked",
                       }),
                       (0, a.jsx)("span", {
                         className:
@@ -779,7 +779,7 @@
                       (0, a.jsx)("p", {
                         className:
                           "text-[14px] leading-[24px] text-[#7e7e7e] opacity-80",
-                        children: "Earnings Per LoxoNFT",
+                        children: "Earnings Per LOXONFT",
                       }),
                       (0, a.jsx)("span", {
                         className:
@@ -803,7 +803,7 @@
         T = n(73616),
         g = n(41658),
         v = n(17423),
-        views_LoxoNFT = () => {
+        views_LOXONFT = () => {
           let { address: e, chain: t } = (0, c.m)(),
             n = (0, m.useToastError)(),
             l = (0, m.useToastSuccess)(),
@@ -994,7 +994,7 @@
                 eB(!1),
                   l(
                     "Claim Successfully",
-                    "Claim reward for LoxoNFT stakers",
+                    "Claim reward for LOXONFT stakers",
                     1,
                     t || e
                   ),
@@ -1021,7 +1021,7 @@
                 if (!t) throw Error("Failed to claim royalties reward");
                 l(
                   "Claim Successfully",
-                  "Claim Royalties of Original minter of  LoxoNFT",
+                  "Claim Royalties of Original minter of  LOXONFT",
                   1,
                   t
                 ),
@@ -1057,7 +1057,7 @@
           return (0, a.jsxs)("div", {
             className: "pageContainer",
             children: [
-              (0, a.jsx)(LoxoNFT_TopBarInfo, {
+              (0, a.jsx)(LOXONFT_TopBarInfo, {
                 address: e,
                 balanceOf: A,
                 APR: es,
@@ -1075,7 +1075,7 @@
                     ),
                     children: (0, a.jsx)("span", {
                       className: "loxoTitle",
-                      children: "Stake LoxoNFT",
+                      children: "Stake LOXONFT",
                     }),
                   }),
                   (0, a.jsxs)("div", {
@@ -1097,7 +1097,7 @@
                                 : R
                                 ? R.length
                                 : 0,
-                              "\xa0LoxoNFT",
+                              "\xa0LOXONFT",
                             ],
                           }),
                         ],
@@ -1108,7 +1108,7 @@
                         children: [
                           (0, a.jsx)("span", {
                             className: "text-[14px] text-[#7e7e7e]",
-                            children: "LoxoNFTs in your wallet",
+                            children: "OmnixNFTs in your wallet",
                           }),
                           (0, a.jsxs)("span", {
                             className:
@@ -1119,7 +1119,7 @@
                                 : eo
                                 ? eo.toString()
                                 : 0,
-                              "\xa0LoxoNFT",
+                              "\xa0LOXONFT",
                             ],
                           }),
                         ],
@@ -1297,7 +1297,7 @@
                   }),
                   (0, a.jsx)("p", {
                     className: "loxoTitle mt-[40px]",
-                    children: "Claim LoxoNFT Minter Royalties",
+                    children: "Claim LOXONFT Minter Royalties",
                   }),
                   (0, a.jsxs)("div", {
                     className: "loxoCard",
@@ -1307,7 +1307,7 @@
                         children: (0, a.jsx)("span", {
                           className: "".concat(i().echo_nft_content),
                           children:
-                            "The royalty charged from secondary sales is 3%, 2% goes to a pool to which the original minters have a claim to — forever, while 1% goes to LoxoNFT staking pool",
+                            "The royalty charged from secondary sales is 3%, 2% goes to a pool to which the original minters have a claim to — forever, while 1% goes to LOXONFT staking pool",
                         }),
                       }),
                       (0, a.jsxs)("div", {
@@ -1432,7 +1432,7 @@
                     setOpen: () => {
                       eI || _(!1);
                     },
-                    children: (0, a.jsx)(extras_ManageLoxoNFT, {
+                    children: (0, a.jsx)(extras_ManageLOXONFT, {
                       myStake: (null == R ? void 0 : R.length) || 0,
                       NFTBal: (null == eo ? void 0 : eo.toString()) || "0",
                       staked: P,

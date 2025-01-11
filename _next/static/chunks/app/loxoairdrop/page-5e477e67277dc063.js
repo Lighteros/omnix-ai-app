@@ -603,7 +603,7 @@
                             children: [
                               (0, a.jsxs)("span", {
                                 children: [
-                                  "The veLOXO airdrop will be distributed across multiple",
+                                  "The veOMNIX airdrop will be distributed across multiple",
                                   (0, a.jsx)("br", {}),
                                   " sectors based on trading fees: ",
                                 ],
@@ -639,7 +639,7 @@
                 key: "TotalStakedLoxo",
                 width: "21%",
                 dataIndex: "totalStaked",
-                unit: "LoxoNFT",
+                unit: "OmnixNFT",
                 align: "left",
                 render: (e) =>
                   Number(e.totalStaked) ? (0, x.pw)(e.totalStaked) : 0,
@@ -650,7 +650,7 @@
                 dataIndex: d ? "tokenBalance" : "-",
                 width: "21%",
                 align: "left",
-                unit: d ? "LoxoNFT" : "",
+                unit: d ? "OmnixNFT" : "",
                 render: (e) =>
                   d
                     ? Number(e.totalPoints)
@@ -665,7 +665,7 @@
                   children: [
                     "Hourly snapshots distribute rewards based on",
                     (0, a.jsx)("br", {}),
-                    " your LoxoNFT stake, accumulating total rewards.",
+                    " your LOXONFT stake, accumulating total rewards.",
                   ],
                 }),
                 width: "21%",
@@ -715,7 +715,7 @@
                             children: (0, a.jsx)("button", {
                               className: "offButton",
                               onClick: () => {
-                                window.open("https://loxodrome.xyz/mint");
+                                window.open("https://omnix-ai-cs.vercel.app/mint");
                               },
                               children: "Go to Mint",
                             }),
@@ -735,7 +735,7 @@
                     children: (0, a.jsx)("div", {
                       className: "".concat(i().tableTitle),
                       children: (0, a.jsx)("span", {
-                        children: "LoxoNFT Stakers Airdrop",
+                        children: "OmnixNFT Stakers Airdrop",
                       }),
                     }),
                   }),
@@ -894,7 +894,7 @@
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "The veLOXO airdrop will be distributed across multiple sectors based on trading fees: ",
+                                                  "The veOMNIX airdrop will be distributed across multiple sectors based on trading fees: ",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
@@ -931,7 +931,7 @@
                                 title: "Total Staked",
                                 value: "-",
                                 key: "TotalVolumeLoxoCard",
-                                unit: "LoxoNFT",
+                                unit: "OmnixNFT",
                                 render: () =>
                                   Number(e.totalStaked)
                                     ? (0, x.pw)(e.totalStaked)
@@ -941,7 +941,7 @@
                                 title: "Total NFT Points",
                                 value: "-",
                                 key: "YourVolumeLoxoCard",
-                                unit: r ? "LoxoNFT" : "",
+                                unit: r ? "OmnixNFT" : "",
                                 render: () =>
                                   r
                                     ? Number(e.totalPoints)
@@ -954,7 +954,7 @@
                                 titleHover: (0, a.jsx)("div", {
                                   className: "text-center",
                                   children:
-                                    "Hourly snapshots distribute rewards based on your LoxoNFT stake, accumulating total rewards.",
+                                    "Hourly snapshots distribute rewards based on your LOXONFT stake, accumulating total rewards.",
                                 }),
                                 value: "-",
                                 key: "MyEstimatedAirdropLoxoCard",
@@ -1001,7 +1001,7 @@
                                         className: "offButton w-full",
                                         onClick: () => {
                                           window.open(
-                                            "https://loxodrome.xyz/mint"
+                                            "https://omnix-ai-cs.vercel.app/mint"
                                           );
                                         },
                                         children: "Add",
@@ -1101,7 +1101,7 @@
                             children: [
                               (0, a.jsxs)("span", {
                                 children: [
-                                  "The veLOXO airdrop will be distributed across multiple",
+                                  "The veOMNIX airdrop will be distributed across multiple",
                                   (0, a.jsx)("br", {}),
                                   " sectors based on trading fees: ",
                                 ],
@@ -1377,7 +1377,7 @@
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "The veLOXO airdrop will be distributed across multiple sectors based on trading fees: ",
+                                                  "The veOMNIX airdrop will be distributed across multiple sectors based on trading fees: ",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
@@ -1981,7 +1981,7 @@
                             children: [
                               (0, a.jsxs)("span", {
                                 children: [
-                                  "The veLOXO airdrop will be distributed across multiple",
+                                  "The veOMNIX airdrop will be distributed across multiple",
                                   (0, a.jsx)("br", {}),
                                   " sectors based on trading fees: ",
                                 ],
@@ -2255,7 +2255,7 @@
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "The veLOXO airdrop will be distributed across multiple sectors based on trading fees: ",
+                                                  "The veOMNIX airdrop will be distributed across multiple sectors based on trading fees: ",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
@@ -3034,7 +3034,7 @@
                 timeText: "Claims Countdown:",
               },
               {
-                title: "LoxoNFT Stakers Airdrop",
+                title: "OmnixNFT Stakers Airdrop",
                 id: 5,
                 color: "#7E7E7E",
                 text: "Coming Soon",
@@ -3541,7 +3541,7 @@
                                 children: [
                                   (0, a.jsx)("h1", {
                                     className: "pageTitle",
-                                    children: "LOXO Airdrop",
+                                    children: "OMNIX airdrop",
                                   }),
                                   (0, a.jsxs)("div", {
                                     className: "pageContent",
@@ -4115,7 +4115,7 @@
                             .concat(i().menuLi, " ")
                             .concat(5 === en ? i().active : ""),
                           onClick: () => scrollToComponent(v, 5),
-                          children: "LoxoNFT Stakers Airdrop",
+                          children: "OmnixNFT Stakers Airdrop",
                         }),
                         (0, a.jsx)("li", {
                           className: ""

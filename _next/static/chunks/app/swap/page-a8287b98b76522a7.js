@@ -427,7 +427,7 @@
                       disabled: !1,
                       children: (0, s.jsx)("span", {
                         className: "h-full",
-                        children: "Connect your Wallet to use Loxodrome",
+                        children: "Connect your Wallet to use OmniX",
                       }),
                     });
                 })(),
@@ -1272,7 +1272,7 @@
                                         }),
                                         (0, s.jsx)("span", {
                                           className: i().fuel_fee_price,
-                                          children: "Loxodrome",
+                                          children: "OmniX AI",
                                         }),
                                       ],
                                     }),

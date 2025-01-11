@@ -1255,7 +1255,7 @@
           },
         }),
         c = (0, r.vX)({
-          appName: "Loxodrome",
+          appName: "OmniX AI",
           projectId: "e798cef35d6a24a5ddf135ca3b9d57d7",
           wallets: [
             {
@@ -1403,7 +1403,7 @@
           },
           {
             id: "",
-            name: "Loxodrome",
+            name: "OmniX AI",
             symbol: "LOXO",
             decimals: 18,
             address: "0x2ff90cA1A004f8900Ab498259Fc4E148e39331fD",
@@ -2046,7 +2046,7 @@
           },
           {
             id: "",
-            name: "Loxodrome",
+            name: "OmniX AI",
             symbol: "LOXO",
             decimals: 18,
             address: "0xA9ADaCbCea0C101561f317D4226dc628253fEBFe",

@@ -450,7 +450,7 @@
             balance: "0",
             address: "0xA9ADaCbCea0C101561f317D4226dc628253fEBFe",
             symbol: "LOXO",
-            name: "Loxodrome",
+            name: "OmniX AI",
             price: 0,
           },
         },

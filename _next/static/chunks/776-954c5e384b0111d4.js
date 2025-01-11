@@ -174,7 +174,7 @@
           ];
         },
         h = { stakedAmount: 0n, claimableVeLOXO: 0n, claimed: !1 };
-      ((e = d || (d = {}))[(e.loxo = 0)] = "loxo"),
+      ((e = d || (d = {}))[(e.loxo = 0)] = "LOXO"),
         (e[(e.veLoxo = 1)] = "veLoxo");
       let g = ["address", "uint256"];
       async function hasClaimedSet(a, c) {

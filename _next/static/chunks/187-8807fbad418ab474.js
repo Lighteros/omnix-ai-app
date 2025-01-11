@@ -216,12 +216,11 @@
       let o = [
         { title: "Dashboard", link: "/dashboard" },
         { title: "Swap", link: "/swap" },
-        { title: "Perp", link: "https://perp.loxodrome.xyz", otherLink: !0 },
         { title: "Liquidity", link: "/liquidity" },
         { title: "Lock", link: "/lock" },
         { title: "Vote", link: "/vote" },
         { title: "Incentive", link: "/bribe" },
-        { title: "LoxoNFT", link: "/loxonft" },
+        { title: "OmnixNFT", link: "/LOXONFT" },
         { title: "Airdrop", link: "/loxoairdrop" },
       ];
       var r = n(61396),
@@ -353,7 +352,7 @@
             [i, _] = (0, l.useState)(!0),
             [h, x] = (0, l.useState)(!0),
             m = (0, l.useMemo)(
-              () => "/loxonft" === s || "/loxoairdrop" === s,
+              () => "/LOXONFT" === s || "/loxoairdrop" === s,
               [s]
             );
           (0, l.useEffect)(() => {
@@ -424,12 +423,12 @@
                           (0, a.jsx)("span", {
                             className: c().bannerSpan,
                             children:
-                              "LoxoNFT Public Mint Is Live, now to unlock exclusive benefits \uD83C\uDF89\uD83C\uDF89\uD83C\uDF89",
+                              "OmnixNFT Public Mint Is Live, now to unlock exclusive benefits \uD83C\uDF89\uD83C\uDF89\uD83C\uDF89",
                           }),
                           (0, a.jsx)("div", {
                             className: c().btnBox,
                             children: (0, a.jsx)("a", {
-                              href: "https://loxodrome.xyz/mint",
+                              href: "https://omnix-ai-cs.vercel.app/mint",
                               target: "_blank",
                               children: (0, a.jsx)("div", {
                                 className: c().bannerBtn,
@@ -449,7 +448,7 @@
                     ],
                   })
                 : null,
-              n || ("/liquidity" !== s && "/loxonft" !== s)
+              n || ("/liquidity" !== s && "/LOXONFT" !== s)
                 ? null
                 : (0, a.jsxs)("div", {
                     className: c().bannerInner2,
@@ -460,7 +459,7 @@
                           (0, a.jsx)("span", {
                             className: c().bannerSpan,
                             children:
-                              "The mainnet beta phase has concluded. Kindly migrate your liquidity and LoxoNFTs into the mainnet.",
+                              "The mainnet beta phase has concluded. Kindly migrate your liquidity and LOXONFTs into the mainnet.",
                           }),
                           (0, a.jsxs)("div", {
                             className: c().btnBox,
@@ -474,16 +473,16 @@
                                     children: "Go to migrate liquidity",
                                   }),
                                 }),
-                              "/loxonft" === s &&
+                              "/LOXONFT" === s &&
                                 (0, a.jsx)("a", {
-                                  href: "https://dappbeta.loxodrome.xyz/loxonft?openManage=true",
+                                  href: "https://dappbeta.loxodrome.xyz/LOXONFT?openManage=true",
                                   target: "_blank",
                                   children: (0, a.jsx)("div", {
                                     className: "".concat(
                                       c().bannerBtn,
                                       " lg:ml-4 mt-2 lg:mt-0"
                                     ),
-                                    children: "Go to migrate LoxoNFT",
+                                    children: "Go to migrate LOXONFT",
                                   }),
                                 }),
                             ],
@@ -514,7 +513,7 @@
                   (0, a.jsx)("div", {
                     className: "navbar-start w-[30%] md:w-[50%]",
                     children: (0, a.jsxs)(s(), {
-                      href: "https://loxodrome.xyz/",
+                      href: "https://omnix-ai-cs.vercel.app/",
                       className:
                         "btn btn-ghost normal-case text-sm xs:text-xl px-[6px] xs:px-[1rem]",
                       children: [
@@ -528,7 +527,7 @@
                         }),
                         (0, a.jsx)("span", {
                           className: c().nav_loxodrome,
-                          children: "Loxodrome",
+                          children: "OmniX AI",
                         }),
                       ],
                     }),
@@ -539,7 +538,7 @@
                       className: "menu menu-horizontal px-1",
                       children: o.map((e, t) => {
                         let l = e.link === n;
-                        return "LoxoNFT" === e.title ||
+                        return "OmnixNFT" === e.title ||
                           "Swap" === e.title ||
                           e.otherLink ||
                           "Liquidity" === e.title ||
@@ -698,7 +697,7 @@
                                                   })
                                                 : e.title,
                                               " ",
-                                              "LoxoNFT" === e.title ||
+                                              "OmnixNFT" === e.title ||
                                               e.otherLink ||
                                               "Swap" === e.title ||
                                               "Liquidity" === e.title ||

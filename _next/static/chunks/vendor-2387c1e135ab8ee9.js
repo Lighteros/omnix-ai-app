@@ -93924,15 +93924,7 @@ ${jsonify(et)}`,
       "use strict";
       function defaultLoader(et) {
         let { config: en, src: eo, width: es, quality: ec } = et;
-        return (
-          en.path +
-          "?url=" +
-          encodeURIComponent(eo) +
-          "&w=" +
-          es +
-          "&q=" +
-          (ec || 75)
-        );
+        return eo;
       }
       Object.defineProperty(en, "__esModule", { value: !0 }),
         Object.defineProperty(en, "default", {

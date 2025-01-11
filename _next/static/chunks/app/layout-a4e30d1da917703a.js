@@ -231,7 +231,7 @@
             client: r,
             children: (0, n.jsx)(j.pj, {
               initialChain: g.p,
-              appInfo: { appName: "Loxodrome" },
+              appInfo: { appName: "OmniX AI" },
               theme: (0, b.$)({
                 accentColor: "#FFFFFF",
                 accentColorForeground: "#000000",

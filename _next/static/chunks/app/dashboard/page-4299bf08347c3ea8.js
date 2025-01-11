@@ -2030,7 +2030,7 @@
                   D(!1),
                     E(
                       "Claim Successfully",
-                      "Claim reward for LoxoNFT stakers",
+                      "Claim reward for LOXONFT stakers",
                       1,
                       a || e
                     ),
@@ -2065,7 +2065,7 @@
                 key: "TotalStaked",
                 width: "26%",
                 dataIndex: "balanceOf",
-                unit: "LoxoNFT",
+                unit: "OmnixNFT",
                 render: (e) => (e.balanceOf ? e.balanceOf.toString() : "0"),
               },
               {
@@ -2075,7 +2075,7 @@
                 dataIndex: "stakedTokenIds",
                 render: (e) =>
                   e.stakedTokenIds
-                    ? "".concat(e.stakedTokenIds.length, " LoxoNFT")
+                    ? "".concat(e.stakedTokenIds.length, " LOXONFT")
                     : "--",
               },
               {
@@ -2083,7 +2083,7 @@
                 titleHover: (0, l.jsxs)("div", {
                   className: "text-[12px] font-normal text-white leading-6",
                   children: [
-                    "Total LOXO emissions earned from staking LoxoNFT. ",
+                    "Total LOXO emissions earned from staking LOXONFT. ",
                     (0, l.jsx)("br", {}),
                     "Please claim within two epochs, otherwise it will be burned.",
                   ],
@@ -2163,7 +2163,7 @@
                     className: "flex flex-row flex-wrap gap-2.5",
                     children: [
                       (0, l.jsx)("button", {
-                        onClick: () => B.push("/loxonft?openManage=1"),
+                        onClick: () => B.push("/LOXONFT?openManage=1"),
                         className: "offButton",
                         children: "Stake",
                       }),
@@ -2242,7 +2242,7 @@
               (0, l.jsxs)("div", {
                 className: n().tableTitle,
                 children: [
-                  (0, l.jsx)("span", { children: "LoxoNFT Stakers Rewards" }),
+                  (0, l.jsx)("span", { children: "OmnixNFT Stakers Rewards" }),
                   (0, l.jsxs)("span", {
                     className: "ml-2",
                     children: [
@@ -2262,7 +2262,7 @@
                         className:
                           "text-[12px] font-normal text-white leading-6",
                         children: [
-                          "LoxoNFT staker rewards: 24 epochs. 50% LOXO",
+                          "OmnixNFT staker rewards: 24 epochs. 50% LOXO",
                           (0, l.jsx)("br", {}),
                           " direct to wallet, 50% locked as veLOXO for 2 years.",
                         ],
@@ -2285,11 +2285,11 @@
                     : (0, l.jsxs)("div", {
                         className: n().nodataArea,
                         children: [
-                          "You haven't staked any LoxoNFT yet, go ",
+                          "You haven't staked any LOXONFT yet, go ",
                           (0, l.jsx)(c(), {
                             className: "text-[#2BDFB4] px-1",
-                            href: "/loxonft",
-                            children: "Stake LoxoNFT",
+                            href: "/LOXONFT",
+                            children: "Stake LOXONFT",
                           }),
                           " to earn daily emissions.",
                         ],
@@ -2376,7 +2376,7 @@
                   X(!1),
                     d(
                       "Claim Successfully",
-                      "Claim reward for LoxoNFT stakers",
+                      "Claim reward for LOXONFT stakers",
                       1,
                       i || s
                     ),
@@ -2419,12 +2419,12 @@
                               title: "Total Staked",
                               value: e.balanceOf ? e.balanceOf.toString() : "0",
                               key: "TotalStaked",
-                              unit: "LoxoNFT",
+                              unit: "OmnixNFT",
                             },
                             {
                               title: "My Stake",
                               value: e.stakedTokenIds
-                                ? "".concat(e.stakedTokenIds.length, " LoxoNFT")
+                                ? "".concat(e.stakedTokenIds.length, " LOXONFT")
                                 : "--",
                               key: "MyStaked",
                             },
@@ -2433,7 +2433,7 @@
                               titleHover: (0, l.jsx)("div", {
                                 className: "text-center",
                                 children:
-                                  "Total LOXO emissions earned from staking LoxoNFT.Please claim within two epochs, otherwise it will be burned.",
+                                  "Total LOXO emissions earned from staking LOXONFT.Please claim within two epochs, otherwise it will be burned.",
                               }),
                               value: getRewards(e),
                               key: "TotalRewards",
@@ -2509,7 +2509,7 @@
                               "w-full flex flex-row justify-between flex-wrap gap-2.5",
                             children: [
                               (0, l.jsx)("button", {
-                                onClick: () => r.push("/loxonft?openManage=1"),
+                                onClick: () => r.push("/LOXONFT?openManage=1"),
                                 className: "offButton w-[calc(50%-7px)]",
                                 children: "Stake",
                               }),
@@ -2544,11 +2544,11 @@
                     : (0, l.jsxs)("div", {
                         className: n().nodataCard,
                         children: [
-                          "You haven't staked any LoxoNFT yet, go ",
+                          "You haven't staked any LOXONFT yet, go ",
                           (0, l.jsx)(c(), {
                             className: "text-[#2BDFB4] px-1",
-                            href: "/loxonft",
-                            children: "Stake LoxoNFT",
+                            href: "/LOXONFT",
+                            children: "Stake LOXONFT",
                           }),
                           " to earn daily emissions.",
                         ],
@@ -2612,7 +2612,7 @@
           let e = [
               { title: "Gauge Farming Rewards", id: 0 },
               { title: "veLOXO Holders & Voters Rewards", id: 1 },
-              { title: "LoxoNFT Stakers Rewards", id: 3 },
+              { title: "OmnixNFT Stakers Rewards", id: 3 },
             ],
             {
               address: a,
@@ -2808,7 +2808,7 @@
             (0, l.jsxs)("div", {
               className: "flex flex-row items-center",
               children: [
-                (0, l.jsx)("span", { children: "LoxoNFT Stakers Rewards" }),
+                (0, l.jsx)("span", { children: "OmnixNFT Stakers Rewards" }),
                 (0, l.jsx)("span", {
                   className: "ml-2",
                   children: "".concat(
@@ -2823,7 +2823,7 @@
                   renderContent: () =>
                     (0, l.jsx)("span", {
                       children:
-                        "LoxoNFT staker rewards: 24 epochs. 50% LOXO direct to wallet, 50% locked as veLOXO for 2 years.",
+                        "OmnixNFT staker rewards: 24 epochs. 50% LOXO direct to wallet, 50% locked as veLOXO for 2 years.",
                     }),
                 }),
               ],
