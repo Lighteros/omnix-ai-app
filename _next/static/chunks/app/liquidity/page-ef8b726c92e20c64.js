@@ -4743,7 +4743,7 @@
                           (0, n.jsx)(i(), {
                             target: "_blank",
                             className: "text-blue hover:underline",
-                            href: "https://docs.loxodrome.xyz/terminology-know/liquidity",
+                            href: "https://alexeys-organization-9.gitbook.io/omnix-ai",
                             children: "Learn More",
                           }),
                         ],

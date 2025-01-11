@@ -129,7 +129,7 @@
                       (0, a.jsxs)("span", {
                         children: [
                           e.totalEstimated ? (0, x.pw)(e.totalEstimated) : "-",
-                          " veLOXO",
+                          " OMNIX",
                         ],
                       }),
                       (0, a.jsx)(layouts_ProgressBar, {
@@ -219,7 +219,7 @@
                         className: "flex flex-row items-center",
                         children: [
                           (0, a.jsxs)("span", {
-                            children: [(0, x.pw)(e.estimated, 4), " veLOXO"],
+                            children: [(0, x.pw)(e.estimated, 4), " OMNIX"],
                           }),
                           e.isOld
                             ? (0, a.jsx)(b.Z, {
@@ -395,7 +395,7 @@
                                             e.totalEstimated
                                               ? (0, x.pw)(e.totalEstimated)
                                               : "-",
-                                            " veLOXO",
+                                            " OMNIX",
                                           ],
                                         }),
                                         (0, a.jsx)(layouts_ProgressBar, {
@@ -437,7 +437,7 @@
                                           (0, a.jsxs)("span", {
                                             children: [
                                               (0, x.pw)(e.estimated, 4),
-                                              " veLOXO",
+                                              " OMNIX",
                                             ],
                                           }),
                                           e.isOld
@@ -553,7 +553,7 @@
                         className: "mr-[5px]",
                         children: [
                           e.totalAirdrop ? (0, x.pw)(e.totalAirdrop) : "-",
-                          " veLOXO",
+                          " OMNIX",
                         ],
                       }),
                       (0, a.jsx)(b.Z, {
@@ -610,23 +610,23 @@
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 0 ＜ Trade fees ≤ 10K; 36,000 veLOXO",
+                                  "\xb7 0 ＜ Trade fees ≤ 10K; 36,000 OMNIX",
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 10K ＜ Trade fees ≤ 50K; 108,000 veLOXO",
+                                  "\xb7 10K ＜ Trade fees ≤ 50K; 108,000 OMNIX",
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 50K ＜ Trade fees ≤ 100K; 1,800,000 veLOXO",
+                                  "\xb7 50K ＜ Trade fees ≤ 100K; 1,800,000 OMNIX",
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 100K ＜ Trade fees ≤ 200K; 1,800,000 veLOXO",
+                                  "\xb7 100K ＜ Trade fees ≤ 200K; 1,800,000 OMNIX",
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 200K ＜ Trade fees; 360,000 veLOXO",
+                                  "\xb7 200K ＜ Trade fees; 360,000 OMNIX",
                               }),
                             ],
                           }),
@@ -665,7 +665,7 @@
                   children: [
                     "Hourly snapshots distribute rewards based on",
                     (0, a.jsx)("br", {}),
-                    " your LOXONFT stake, accumulating total rewards.",
+                    " your OmnixNFT stake, accumulating total rewards.",
                   ],
                 }),
                 width: "21%",
@@ -677,7 +677,7 @@
                         className: "flex flex-row items-center",
                         children: [
                           (0, a.jsxs)("span", {
-                            children: [(0, x.pw)(e.myPoints, 4), " veLOXO"],
+                            children: [(0, x.pw)(e.myPoints, 4), " OMNIX"],
                           }),
                           e.isOld
                             ? (0, a.jsx)(b.Z, {
@@ -834,7 +834,7 @@
                                           e.totalAirdrop
                                             ? (0, x.pw)(e.totalAirdrop)
                                             : "-",
-                                          " veLOXO",
+                                          " OMNIX",
                                         ],
                                       }),
                                       (0, a.jsx)(b.Z, {
@@ -899,27 +899,27 @@
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 0 ＜ Trade fees ≤ 10K; 36,000 veLOXO",
+                                                  "\xb7 0 ＜ Trade fees ≤ 10K; 36,000 OMNIX",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 10K ＜ Trade fees ≤ 50K; 108,000 veLOXO",
+                                                  "\xb7 10K ＜ Trade fees ≤ 50K; 108,000 OMNIX",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 50K ＜ Trade fees ≤ 100K; 1,800,000 veLOXO",
+                                                  "\xb7 50K ＜ Trade fees ≤ 100K; 1,800,000 OMNIX",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 100K ＜ Trade fees ≤ 200K; 1,800,000 veLOXO",
+                                                  "\xb7 100K ＜ Trade fees ≤ 200K; 1,800,000 OMNIX",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 200K ＜ Trade fees; 360,000 veLOXO",
+                                                  "\xb7 200K ＜ Trade fees; 360,000 OMNIX",
                                               }),
                                             ],
                                           }),
@@ -954,7 +954,7 @@
                                 titleHover: (0, a.jsx)("div", {
                                   className: "text-center",
                                   children:
-                                    "Hourly snapshots distribute rewards based on your LOXONFT stake, accumulating total rewards.",
+                                    "Hourly snapshots distribute rewards based on your OmnixNFT stake, accumulating total rewards.",
                                 }),
                                 value: "-",
                                 key: "MyEstimatedAirdropLoxoCard",
@@ -966,7 +966,7 @@
                                           (0, a.jsxs)("span", {
                                             children: [
                                               (0, x.pw)(e.myPoints, 4),
-                                              " veLOXO",
+                                              " OMNIX",
                                             ],
                                           }),
                                           e.isOld
@@ -1057,7 +1057,7 @@
                         className: "mr-[5px]",
                         children: [
                           e.totalAirdrop ? (0, x.pw)(e.totalAirdrop) : "-",
-                          " veLOXO",
+                          " OMNIX",
                         ],
                       }),
                       (0, a.jsx)(b.Z, {
@@ -1108,23 +1108,23 @@
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 0 ＜ Trade fees ≤ 10K; 36,000 veLOXO",
+                                  "\xb7 0 ＜ Trade fees ≤ 10K; 36,000 OMNIX",
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 10K ＜ Trade fees ≤ 50K; 108,000 veLOXO",
+                                  "\xb7 10K ＜ Trade fees ≤ 50K; 108,000 OMNIX",
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 50K ＜ Trade fees ≤ 100K; 1,800,000 veLOXO",
+                                  "\xb7 50K ＜ Trade fees ≤ 100K; 1,800,000 OMNIX",
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 100K ＜ Trade fees ≤ 200K; 1,800,000 veLOXO",
+                                  "\xb7 100K ＜ Trade fees ≤ 200K; 1,800,000 OMNIX",
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 200K ＜ Trade fees; 360,000 veLOXO",
+                                  "\xb7 200K ＜ Trade fees; 360,000 OMNIX",
                               }),
                             ],
                           }),
@@ -1133,7 +1133,7 @@
                   }),
               },
               {
-                title: "Total veLOXO Locked",
+                title: "Total veOMNIX Locked",
                 key: "TotalStaked",
                 width: "21%",
                 dataIndex: "",
@@ -1144,7 +1144,7 @@
                     " the latest hourly snapshot.",
                   ],
                 }),
-                unit: "veLOXO",
+                unit: "OMNIX",
                 align: "left",
                 render: (e) => (0, x.pw)(e.totalLocked),
               },
@@ -1161,7 +1161,7 @@
                 }),
                 width: "21%",
                 align: "left",
-                unit: d ? "veLOXO" : "",
+                unit: d ? "OMNIX" : "",
                 render: (e) =>
                   d ? (Number(e.myLoxo) ? (0, x.pw)(e.myLoxo) : 0) : "-",
               },
@@ -1179,7 +1179,7 @@
                 }),
                 width: "21%",
                 key: "MyEstimatedAirdrop",
-                unit: d ? "veLOXO" : "",
+                unit: d ? "OMNIX" : "",
                 align: "left",
                 render: (e) => (d ? (0, x.pw)(e.estimated, 4) : "-"),
               },
@@ -1218,7 +1218,7 @@
                     children: (0, a.jsx)("div", {
                       className: "".concat(i().tableTitle),
                       children: (0, a.jsx)("span", {
-                        children: "LOXO Lockers Incentive",
+                        children: "OMNIX Lockers Incentive",
                       }),
                     }),
                   }),
@@ -1317,7 +1317,7 @@
                                           e.totalAirdrop
                                             ? (0, x.pw)(e.totalAirdrop)
                                             : "-",
-                                          " veLOXO",
+                                          " OMNIX",
                                         ],
                                       }),
                                       (0, a.jsx)(b.Z, {
@@ -1382,27 +1382,27 @@
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 0 ＜ Trade fees ≤ 10K; 36,000 veLOXO",
+                                                  "\xb7 0 ＜ Trade fees ≤ 10K; 36,000 OMNIX",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 10K ＜ Trade fees ≤ 50K; 108,000 veLOXO",
+                                                  "\xb7 10K ＜ Trade fees ≤ 50K; 108,000 OMNIX",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 50K ＜ Trade fees ≤ 100K; 1,800,000 veLOXO",
+                                                  "\xb7 50K ＜ Trade fees ≤ 100K; 1,800,000 OMNIX",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 100K ＜ Trade fees ≤ 200K; 1,800,000 veLOXO",
+                                                  "\xb7 100K ＜ Trade fees ≤ 200K; 1,800,000 OMNIX",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 200K ＜ Trade fees; 360,000 veLOXO",
+                                                  "\xb7 200K ＜ Trade fees; 360,000 OMNIX",
                                               }),
                                             ],
                                           }),
@@ -1411,7 +1411,7 @@
                                   }),
                               },
                               {
-                                title: "Total veLOXO Locked",
+                                title: "Total veOMNIX Locked",
                                 value: "",
                                 titleHover: (0, a.jsx)("div", {
                                   className: "text-center",
@@ -1419,7 +1419,7 @@
                                     "Total for all veLOXOs, calculated as the sum of the latest hourly snapshot.",
                                 }),
                                 key: "TotalVolume",
-                                unit: "veLOXO",
+                                unit: "OMNIX",
                                 render: () => (0, x.pw)(e.totalLocked),
                               },
                               {
@@ -1431,7 +1431,7 @@
                                 }),
                                 value: "",
                                 key: "YourVolume",
-                                unit: r ? "veLOXO" : "",
+                                unit: r ? "OMNIX" : "",
                                 render: () =>
                                   r
                                     ? Number(e.myLoxo)
@@ -1447,7 +1447,7 @@
                                     "Hourly snapshots distribute rewards based on your veLOXO balance proportion,accumulating total rewards.",
                                 }),
                                 value: "",
-                                unit: r ? "veLOXO" : "",
+                                unit: r ? "OMNIX" : "",
                                 key: "MyEstimatedAirdrop",
                                 render: () =>
                                   r ? (0, x.pw)(e.estimated, 4) : "-",
@@ -1520,12 +1520,12 @@
                 key: "PhraseAirdrop",
                 width: "25%",
                 dataIndex: "",
-                unit: "veLOXO",
+                unit: "OMNIX",
                 align: "left",
                 render: (e) => (0, x.Xh)(144e4, 4, !0),
               },
               {
-                title: "Total Staked IOTX",
+                title: "Total Staked OMNIX",
                 key: "TotalIOTXIoxt",
                 width: "25%",
                 dataIndex: "totalStaked",
@@ -1534,12 +1534,12 @@
                 render: (e) => (0, x.Xh)(4277600966, 4, !0),
               },
               {
-                title: "Your Staked IOTX",
+                title: "Your Staked OMNIX",
                 key: "YourIOTXIoxt",
                 dataIndex: f ? "tokenBalance" : "-",
                 titleHover: (0, a.jsxs)("div", {
                   children: [
-                    "Only addresses with a stake of 500 IOTX or",
+                    "Only addresses with a stake of 500 OMNIX or",
                     (0, a.jsx)("br", {}),
                     " more are eligible for the airdrop.",
                   ],
@@ -1563,7 +1563,7 @@
                   children: [
                     (0, a.jsxs)("span", {
                       children: [
-                        "The distribution of airdrop is based on the amount of IOTX you have",
+                        "The distribution of airdrop is based on the amount of OMNIX you have",
                         (0, a.jsx)("br", {}),
                         " staked.Please refer to the following rules for detailed information:",
                       ],
@@ -1573,21 +1573,21 @@
                     }),
                     (0, a.jsx)("span", {
                       children:
-                        "\xb7\xa0\xa0\xa0100K ≤ IOTX ＜ 1M: 723 Wallets (10%)",
+                        "\xb7\xa0\xa0\xa0100K ≤ OMNIX ＜ 1M: 723 Wallets (10%)",
                     }),
                     (0, a.jsx)("span", {
                       children:
-                        "\xb7\xa0\xa0\xa01K ≤ IOTX ＜ 100K: 7567 Wallets (76%)",
+                        "\xb7\xa0\xa0\xa01K ≤ OMNIX ＜ 100K: 7567 Wallets (76%)",
                     }),
                     (0, a.jsx)("span", {
                       children:
-                        "\xb7\xa0\xa0\xa0500 ≤ IOTX ＜ 1K: 978 Wallets (7%)",
+                        "\xb7\xa0\xa0\xa0500 ≤ OMNIX ＜ 1K: 978 Wallets (7%)",
                     }),
                   ],
                 }),
                 key: "MyEstimatedAirdropIoxt",
                 align: "right",
-                unit: "veLOXO",
+                unit: "OMNIX",
                 render: (e) =>
                   f ? (0, x.Xh)((0, d.d)(m.claimableVeLOXO), 4, !0) : "-",
               },
@@ -1617,7 +1617,7 @@
                       (0, a.jsx)("div", {
                         className: "".concat(i().tableTitle),
                         children: (0, a.jsx)("span", {
-                          children: "IOTX Stakers Airdrop",
+                          children: "OMNIX Stakers Airdrop",
                         }),
                       }),
                       (0, a.jsx)(b.Z, {
@@ -1626,7 +1626,7 @@
                         renderContent: () =>
                           (0, a.jsxs)("div", {
                             children: [
-                              "Airdrop eligibility requires a minimum of 500 IOTX staked",
+                              "Airdrop eligibility requires a minimum of 500 OMNIX Staked",
                               (0, a.jsx)("br", {}),
                               " on ",
                               (0, a.jsx)("span", {
@@ -1696,7 +1696,7 @@
                                           4,
                                           !0
                                         ),
-                                        " veLOXO"
+                                        " OMNIX"
                                       ),
                                     }),
                                   ],
@@ -1803,7 +1803,7 @@
                               (0, a.jsx)("span", {
                                 children: "".concat(
                                   (0, x.Xh)((0, d.d)(o.claimableVeLOXO), 4, !0),
-                                  " veLOXO"
+                                  " OMNIX"
                                 ),
                               }),
                             ],
@@ -1827,20 +1827,20 @@
                               title: "Total Airdrop",
                               value: (0, x.Xh)(144e4, 4, !0),
                               key: "PhraseAirdrop",
-                              unit: "veLOXO",
+                              unit: "OMNIX",
                             },
                             {
-                              title: "Total Staked IOTX",
+                              title: "Total Staked OMNIX",
                               value: (0, x.Xh)(4277600966, 4, !0),
                               key: "TotalVolumeIoxtCard",
                               unit: "IOTX",
                             },
                             {
-                              title: "Your Staked IOTX",
+                              title: "Your Staked OMNIX",
                               titleHover: (0, a.jsx)("div", {
                                 className: "text-center",
                                 children:
-                                  "Only addresses with a stake of 500 IOTX or more are eligible for the airdrop.",
+                                  "Only addresses with a stake of 500 OMNIX or more are eligible for the airdrop.",
                               }),
                               value: u
                                 ? 500 > Number((0, d.d)(o.stakedAmount))
@@ -1857,7 +1857,7 @@
                                 children: [
                                   (0, a.jsx)("span", {
                                     children:
-                                      "The distribution of airdrop is based on the amount of IOTX you have staked.Please refer to the following rules for detailed information:",
+                                      "The distribution of airdrop is based on the amount of OMNIX you have staked.Please refer to the following rules for detailed information:",
                                   }),
                                   (0, a.jsx)("span", {
                                     children:
@@ -1865,20 +1865,20 @@
                                   }),
                                   (0, a.jsx)("span", {
                                     children:
-                                      "\xb7\xa0\xa0\xa0100K ≤ IOTX ＜ 1M: 723 Wallets (10%)",
+                                      "\xb7\xa0\xa0\xa0100K ≤ OMNIX ＜ 1M: 723 Wallets (10%)",
                                   }),
                                   (0, a.jsx)("span", {
                                     children:
-                                      "\xb7\xa0\xa0\xa01K ≤ IOTX ＜ 100K: 7567 Wallets (76%)",
+                                      "\xb7\xa0\xa0\xa01K ≤ OMNIX ＜ 100K: 7567 Wallets (76%)",
                                   }),
                                   (0, a.jsx)("span", {
                                     children:
-                                      "\xb7\xa0\xa0\xa0500 ≤ IOTX ＜ 1K: 978 Wallets (7%)",
+                                      "\xb7\xa0\xa0\xa0500 ≤ OMNIX ＜ 1K: 978 Wallets (7%)",
                                   }),
                                 ],
                               }),
                               value: "",
-                              unit: "veLOXO",
+                              unit: "OMNIX",
                               key: "MyEstimatedAirdropIoxtCard",
                               render: () =>
                                 u
@@ -1931,7 +1931,7 @@
                         className: "mr-[5px]",
                         children: [
                           e.totalAirdrop ? (0, x.pw)(e.totalAirdrop) : "-",
-                          " veLOXO",
+                          " OMNIX",
                         ],
                       }),
                       (0, a.jsx)(b.Z, {
@@ -1988,23 +1988,23 @@
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 0 ＜ Trade fees ≤ $2.5K; 25,000 veLOXO",
+                                  "\xb7 0 ＜ Trade fees ≤ $2.5K; 25,000 OMNIX",
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 $2.5K ＜ Trade fees ≤ $5K; 60,000 veLOXO",
+                                  "\xb7 $2.5K ＜ Trade fees ≤ $5K; 60,000 OMNIX",
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 $5K ＜ Trade fees ≤ $10K; 120,000 veLOXO",
+                                  "\xb7 $5K ＜ Trade fees ≤ $10K; 120,000 OMNIX",
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 $10K ＜ Trade fees ＜ $20K; 300,000 veLOXO",
+                                  "\xb7 $10K ＜ Trade fees ＜ $20K; 300,000 OMNIX",
                               }),
                               (0, a.jsx)("span", {
                                 children:
-                                  "\xb7 $20K ＜ Trade fees; 500,000 veLOXO",
+                                  "\xb7 $20K ＜ Trade fees; 500,000 OMNIX",
                               }),
                             ],
                           }),
@@ -2047,7 +2047,7 @@
                 width: "21%",
                 key: "MyEstimatedAirdrop",
                 align: "left",
-                unit: d ? "veLOXO" : "",
+                unit: d ? "OMNIX" : "",
                 render: (e) =>
                   d
                     ? (0, a.jsx)("div", {
@@ -2195,7 +2195,7 @@
                                           e.totalAirdrop
                                             ? (0, x.pw)(e.totalAirdrop)
                                             : "-",
-                                          " veLOXO",
+                                          " OMNIX",
                                         ],
                                       }),
                                       (0, a.jsx)(b.Z, {
@@ -2260,27 +2260,27 @@
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 0 ＜ Trade fees ≤ $2.5K; 25,000 veLOXO",
+                                                  "\xb7 0 ＜ Trade fees ≤ $2.5K; 25,000 OMNIX",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 $2.5K ＜ Trade fees ≤ $5K; 60,000 veLOXO",
+                                                  "\xb7 $2.5K ＜ Trade fees ≤ $5K; 60,000 OMNIX",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 $5K ＜ Trade fees ≤ $10K; 120,000 veLOXO",
+                                                  "\xb7 $5K ＜ Trade fees ≤ $10K; 120,000 OMNIX",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 $10K ＜ Trade fees ＜ $20K; 300,000 veLOXO",
+                                                  "\xb7 $10K ＜ Trade fees ＜ $20K; 300,000 OMNIX",
                                               }),
                                               (0, a.jsx)("span", {
                                                 style: { textWrap: "wrap" },
                                                 children:
-                                                  "\xb7 $20K ＜ Trade fees; 500,000 veLOXO",
+                                                  "\xb7 $20K ＜ Trade fees; 500,000 OMNIX",
                                               }),
                                             ],
                                           }),
@@ -2319,7 +2319,7 @@
                                 }),
                                 value: "",
                                 key: "MyEstimatedAirdrop",
-                                unit: r ? "veLOXO" : "",
+                                unit: r ? "OMNIX" : "",
                                 render: () =>
                                   r
                                     ? (0, a.jsx)("div", {
@@ -2393,7 +2393,7 @@
                       (0, a.jsxs)("span", {
                         children: [
                           e.totalAirdrop ? (0, x.pw)(e.totalAirdrop) : "-",
-                          " veLOXO",
+                          " OMNIX",
                         ],
                       }),
                       (0, a.jsx)(layouts_ProgressBar, {
@@ -2404,7 +2404,7 @@
                   }),
               },
               {
-                title: "Total LOXOLP",
+                title: "Total OMNIX(LP)",
                 key: "TotalTradeFees",
                 width: "21%",
                 dataIndex: "totalStaked",
@@ -2413,7 +2413,7 @@
                   Number(e.total) ? Number(e.total).toFixed(4) : 0,
               },
               {
-                title: "Your LOXOLP",
+                title: "Your OMNIX(LP)",
                 key: "YourTradeFees",
                 dataIndex: "tokenBalance",
                 width: "21%",
@@ -2426,12 +2426,12 @@
                 dataIndex: "",
                 titleHover: (0, a.jsx)("div", {
                   children:
-                    "For every 100 LOXOLP held for 24 hours, you get 8 veLOXO.",
+                    "For every 100 OMNIX(LP) held for 24 hours, you get 8 veLOXO.",
                 }),
                 width: "21%",
                 key: "MyEstimatedAirdrop",
                 align: "left",
-                unit: d ? "veLOXO" : "",
+                unit: d ? "OMNIX" : "",
                 render: (e) =>
                   d
                     ? (0, a.jsx)("div", {
@@ -2458,10 +2458,10 @@
                               className: "offButton",
                               onClick: () => {
                                 window.open(
-                                  "https://perp.loxodrome.xyz/#/pools"
+                                  "https://etherscan.io/token/0x00000000000000000000000000000000000000"
                                 );
                               },
-                              children: "Get LOXOLP",
+                              children: "Get OMNIX(LP)",
                             }),
                           })
                         : (0, a.jsx)(j.C, { noTitle: !0 }),
@@ -2580,7 +2580,7 @@
                                           e.totalAirdrop
                                             ? (0, x.pw)(e.totalAirdrop)
                                             : "-",
-                                          " veLOXO",
+                                          " OMNIX",
                                         ],
                                       }),
                                       (0, a.jsx)(layouts_ProgressBar, {
@@ -2591,7 +2591,7 @@
                                   }),
                               },
                               {
-                                title: "Total LOXOLP",
+                                title: "Total OMNIX(LP)",
                                 value: "",
                                 key: "TotalVolume",
                                 render: () =>
@@ -2600,7 +2600,7 @@
                                     : 0,
                               },
                               {
-                                title: "Your LOXOLP",
+                                title: "Your OMNIX(LP)",
                                 value: "",
                                 key: "YourVolume",
                                 render: () =>
@@ -2615,11 +2615,11 @@
                                 titleHover: (0, a.jsx)("div", {
                                   className: "text-center",
                                   children:
-                                    "For every 100 LOXOLP held for 24 hours, you get 8 veLOXO.",
+                                    "For every 100 OMNIX(LP) held for 24 hours, you get 8 veLOXO.",
                                 }),
                                 value: "",
                                 key: "MyEstimatedAirdrop",
-                                unit: r ? "veLOXO" : "",
+                                unit: r ? "OMNIX" : "",
                                 render: () =>
                                   r
                                     ? (0, a.jsx)("div", {
@@ -2641,10 +2641,10 @@
                                         className: "offButton w-full",
                                         onClick: () => {
                                           window.open(
-                                            "https://perp.loxodrome.xyz/#/pools"
+                                            "https://etherscan.io/token/0x00000000000000000000000000000000000000"
                                           );
                                         },
-                                        children: "Get LOXOLP",
+                                        children: "Get OMNIX(LP)",
                                       })
                                     : (0, a.jsx)(j.C, {
                                         btnBoxClassName: "w-full",
@@ -2695,7 +2695,7 @@
                       (0, a.jsxs)("span", {
                         children: [
                           e.totalAirdrop ? (0, x.pw)(e.totalAirdrop) : "-",
-                          " veLOXO",
+                          " OMNIX",
                         ],
                       }),
                       (0, a.jsx)(layouts_ProgressBar, {
@@ -2734,7 +2734,7 @@
                 width: "21%",
                 key: "MyEstimatedAirdrop",
                 align: "left",
-                unit: d ? "veLOXO" : "",
+                unit: d ? "OMNIX" : "",
                 render: (e) =>
                   d
                     ? (0, a.jsx)("div", {
@@ -2761,7 +2761,7 @@
                               className: "offButton",
                               onClick: () => {
                                 window.open(
-                                  "https://perp.loxodrome.xyz/#/trade"
+                                  "https://etherscan.io/token/0x00000000000000000000000000000000000000"
                                 );
                               },
                               children: "Trade",
@@ -2883,7 +2883,7 @@
                                           e.totalAirdrop
                                             ? (0, x.pw)(e.totalAirdrop)
                                             : "-",
-                                          " veLOXO",
+                                          " OMNIX",
                                         ],
                                       }),
                                       (0, a.jsx)(layouts_ProgressBar, {
@@ -2924,7 +2924,7 @@
                                 }),
                                 value: "",
                                 key: "MyEstimatedAirdrop",
-                                unit: r ? "veLOXO" : "",
+                                unit: r ? "OMNIX" : "",
                                 render: () =>
                                   r
                                     ? (0, a.jsx)("div", {
@@ -2946,7 +2946,7 @@
                                         className: "offButton w-full",
                                         onClick: () => {
                                           window.open(
-                                            "https://perp.loxodrome.xyz/#/trade"
+                                            "https://etherscan.io/token/0x00000000000000000000000000000000000000"
                                           );
                                         },
                                         children: "Trade",
@@ -3024,10 +3024,10 @@
                 timeText: "End In: ",
               },
               {
-                title: "IOTX Stakers Airdrop",
+                title: "OMNIX Stakers Airdrop",
                 id: 4,
                 hover:
-                  "Airdrop eligibility requires a minimum of 500 IOTX staked on stake.iotex.io before April 24, 2024, UTC",
+                  "Airdrop eligibility requires a minimum of 500 OMNIX Staked on stake.iotex.io before April 24, 2024, UTC",
                 color: "#2BDFB4",
                 text: "In Progress",
                 endTime: 1716249599e3,
@@ -3041,7 +3041,7 @@
                 timeText: "Claims Countdown:",
               },
               {
-                title: "LOXO Lockers Incentive",
+                title: "OMNIX Lockers Incentive",
                 id: 6,
                 color: "#7E7E7E",
                 text: "Coming Soon",
@@ -3238,12 +3238,12 @@
               try {
                 eK(!0), eV(!0);
                 let _ = await o.Z.get(
-                    "https://perp.loxodrome.xyz/api/v1/4689/earn/1/info?account=".concat(
+                    "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000?account=".concat(
                       e || eR
                     )
                   ),
                   A = await o.Z.get(
-                    "https://perp.loxodrome.xyz/api/v1/4689/earn/1/summary"
+                    "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000"
                   );
                 if (200 == _.status && 200 == A.status) {
                   var t,
@@ -3546,7 +3546,7 @@
                                   (0, a.jsxs)("div", {
                                     className: "pageContent",
                                     children: [
-                                      "Unlock rewards with the Loxodrome airdrop! Participate now for high returns. ",
+                                      "Unlock rewards with the Omnix AI airdrop! Participate now for high returns. ",
                                       (0, a.jsx)("br", {}),
                                       "Our commitment to fairness means tokens are distributed among all users.",
                                     ],
@@ -3555,7 +3555,7 @@
                                     className:
                                       "pageContent flex items-center !mt-0",
                                     children: [
-                                      "View the claimed veLOXO on the ",
+                                      "View the claimed OMNIX on the ",
                                       (0, a.jsxs)("span", {
                                         className:
                                           "text-blue ml-[4px] cursor-pointer hover:underline flex items-center",
@@ -3694,7 +3694,7 @@
                                           }),
                                           (0, a.jsxs)("div", {
                                             className: "text-white",
-                                            children: [eH, " veLOXO"],
+                                            children: [eH, " OMNIX"],
                                           }),
                                         ],
                                       }),
@@ -4099,7 +4099,7 @@
                           children: [
                             (0, a.jsx)("span", {
                               className: "mr-2",
-                              children: "IOTX Stakers Airdrop",
+                              children: "OMNIX Stakers Airdrop",
                             }),
                             (0, a.jsx)("span", {
                               className: "".concat(
@@ -4122,7 +4122,7 @@
                             .concat(i().menuLi, " ")
                             .concat(6 === en ? i().active : ""),
                           onClick: () => scrollToComponent(f, 6),
-                          children: "LOXO Lockers Incentive",
+                          children: "OMNIX Lockers Incentive",
                         }),
                       ],
                     }),

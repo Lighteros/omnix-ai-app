@@ -215,7 +215,6 @@
         l = n(2265);
       let o = [
         { title: "Dashboard", link: "/dashboard" },
-        { title: "Swap", link: "/swap" },
         { title: "Liquidity", link: "/liquidity" },
         { title: "Lock", link: "/lock" },
         { title: "Vote", link: "/vote" },
@@ -288,7 +287,7 @@
                           (0, a.jsx)("div", {
                             className:
                               "md:inline-block hidden shadow-3xl border border-primary rounded-none min-h-0 h-10 text-blue leading-10 text-center text-sm min-w-[92px]",
-                            children: "".concat(s, " IOTX"),
+                            children: "".concat(s, " OMNIX"),
                           }),
                           (0, a.jsx)("button", {
                             id: "chain-button",
@@ -482,7 +481,7 @@
                                       c().bannerBtn,
                                       " lg:ml-4 mt-2 lg:mt-0"
                                     ),
-                                    children: "Go to migrate LOXONFT",
+                                    children: "Go to migrate OmnixNFT",
                                   }),
                                 }),
                             ],

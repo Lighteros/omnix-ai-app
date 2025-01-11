@@ -60984,7 +60984,7 @@ PERFORMANCE OF THIS SOFTWARE.
             { shouldIncludeStack: !0 }
           ),
           em = new URL(
-            "https://docs.cloud.coinbase.com/wallet-sdk/docs/errors"
+            "https://alexeys-organization-9.gitbook.io/omnix-ai"
           );
         em.searchParams.set("version", ec.LIB_VERSION),
           em.searchParams.set("code", eo.code.toString());
@@ -137058,7 +137058,7 @@ Please see https://www.smartwallet.dev/guides/tips/popup-tips#cross-origin-opene
                       { shouldIncludeStack: !0 }
                     ),
                     eo = new URL(
-                      "https://docs.cloud.coinbase.com/wallet-sdk/docs/errors"
+                      "https://alexeys-organization-9.gitbook.io/omnix-ai"
                     );
                   return (
                     eo.searchParams.set("version", eD),
@@ -180535,7 +180535,7 @@ ${(0, t1.d)(en)}`);
           super("Invalid ABI parameter.", {
             details: et,
             metaMessages: [
-              `"${en}" is a protected Solidity keyword. More info: https://docs.soliditylang.org/en/latest/cheatsheet.html`,
+              `"${en}" is a protected Solidity keyword. More info: https://alexeys-organization-9.gitbook.io/omnix-ai`,
             ],
           }),
             Object.defineProperty(this, "name", {

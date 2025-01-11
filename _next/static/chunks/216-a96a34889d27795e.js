@@ -1462,7 +1462,7 @@
             address: "0x236f8c0a61da474db21b693fb2ea7aab0c803894",
             decimals: 18,
             logoURI: "/static/img/icon/tokens/uniIOTX.svg",
-            name: "Universal IOTX",
+            name: "Universal OMNIX",
             symbol: "uniIOTX",
           },
           {
@@ -1894,7 +1894,7 @@
             address: "0x99b2b0efb56e62e36960c20cd5ca8ec6abd5557a",
             decimals: 18,
             logoURI: "/static/img/icon/tokens/CIOTX.svg",
-            name: "Crosschain IOTX",
+            name: "CrosschainOMNIX",
             symbol: "CIOTX",
           },
           {
@@ -2038,8 +2038,8 @@
           },
           {
             id: "iotex",
-            name: "wrapped IOTX Token",
-            symbol: "WIOTX",
+            name: "wrapped OMNIX Token",
+            symbol: "WOMNIX",
             decimals: 18,
             address: "0x36f4fd3b69Cd4ab80E3eb2c63DBaca87c80D6eF3",
             logoURI: "/static/img/icon/tokens/IOTEX.svg",
@@ -2047,7 +2047,7 @@
           {
             id: "",
             name: "OmniX AI",
-            symbol: "LOXO",
+            symbol: "OMNIX",
             decimals: 18,
             address: "0xA9ADaCbCea0C101561f317D4226dc628253fEBFe",
             logoURI: "/static/img/icon/tokens/LOXO.svg",

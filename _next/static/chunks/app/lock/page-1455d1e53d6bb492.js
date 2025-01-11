@@ -1215,7 +1215,7 @@
                                                 e.voting_amount
                                               ).toString()
                                             ).toFixed(6),
-                                            " veLOXO",
+                                            " OMNIX",
                                           ],
                                         }),
                                       ],
@@ -1783,7 +1783,7 @@
               (0, l.jsxs)("div", {
                 className: "w-full flex justify-between text-xs flex-wrap",
                 children: [
-                  (0, l.jsx)("span", { children: "Transfer veLOXO to" }),
+                  (0, l.jsx)("span", { children: "Transfer OMNIX to" }),
                   (0, l.jsx)("div", {
                     className: "w-full border-white  mt-2 flex flex-col",
                     children: (0, l.jsx)("input", {
@@ -2220,7 +2220,7 @@
                     4,
                     !0
                   ),
-                subUnit: "veLOXO",
+                subUnit: "OMNIX",
               },
               {
                 title: "",
@@ -2290,11 +2290,11 @@
                         children: (0, l.jsxs)("div", {
                           className: "pageContent max-w-[630px]",
                           children: [
-                            "Lock LOXO into veLOXO to earn and govern. Vote with veLOXO to earn incentives and trading fees. veLOXO can be transferred, merged and split. You can hold multiple positions.",
+                            "Lock OMNIX to earn and govern. Vote with OMNIX to earn incentives and trading fees. OMNIX can be transferred, merged and split. You can hold multiple positions.",
                             (0, l.jsx)(c(), {
                               className: "text-blue hover:underline",
                               target: "_blank",
-                              href: "https://docs.loxodrome.xyz/how-to-earn/how-to-earn",
+                              href: "https://alexeys-organization-9.gitbook.io/omnix-ai/how-to-earn/how-to-earn",
                               children: "Learn More",
                             }),
                           ],
@@ -2446,7 +2446,7 @@
                                               4,
                                               !0
                                             ),
-                                            " veLOXO"
+                                            " OMNIX"
                                           ),
                                           key: "VotingAmount",
                                         },

@@ -1074,7 +1074,7 @@
                                       (null == e ? void 0 : e.amount) || 0
                                     )
                                   ).toFixed(2),
-                                  " veLOXO"
+                                  " OMNIX"
                                 ),
                               }),
                               (0, l.jsx)("div", {
@@ -1378,7 +1378,7 @@
                 children: [
                   (0, l.jsx)("div", {
                     className: n().tableTitle,
-                    children: "veLOXO Holders & Voters Rewards",
+                    children: "OMNIX Holders & Voters Rewards",
                   }),
                   (0, l.jsx)("div", {
                     className: n().tableArea,
@@ -1411,7 +1411,7 @@
                         : (0, l.jsxs)("div", {
                             className: n().nodataArea,
                             children: [
-                              "You don’t have veLOXO yet, please ",
+                              "You don’t have OMNIX yet, please ",
                               (0, l.jsx)(c(), {
                                 className: "text-[#2BDFB4] px-1",
                                 href: "/lock",
@@ -1883,7 +1883,7 @@
                         : (0, l.jsxs)("div", {
                             className: n().nodataCard,
                             children: [
-                              "You don’t have veLOXO yet, please ",
+                              "You don’t have OMNIX yet, please ",
                               (0, l.jsx)(c(), {
                                 className: "text-[#2BDFB4] px-1",
                                 href: "/lock",
@@ -2030,7 +2030,7 @@
                   D(!1),
                     E(
                       "Claim Successfully",
-                      "Claim reward for LOXONFT stakers",
+                      "Claim reward for OmnixNFT stakers",
                       1,
                       a || e
                     ),
@@ -2285,11 +2285,11 @@
                     : (0, l.jsxs)("div", {
                         className: n().nodataArea,
                         children: [
-                          "You haven't staked any LOXONFT yet, go ",
+                          "You haven't staked any OmnixNFT yet, go ",
                           (0, l.jsx)(c(), {
                             className: "text-[#2BDFB4] px-1",
                             href: "/LOXONFT",
-                            children: "Stake LOXONFT",
+                            children: "Stake OmnixNFT",
                           }),
                           " to earn daily emissions.",
                         ],
@@ -2376,7 +2376,7 @@
                   X(!1),
                     d(
                       "Claim Successfully",
-                      "Claim reward for LOXONFT stakers",
+                      "Claim reward for OmnixNFT stakers",
                       1,
                       i || s
                     ),
@@ -2544,11 +2544,11 @@
                     : (0, l.jsxs)("div", {
                         className: n().nodataCard,
                         children: [
-                          "You haven't staked any LOXONFT yet, go ",
+                          "You haven't staked any OmnixNFT yet, go ",
                           (0, l.jsx)(c(), {
                             className: "text-[#2BDFB4] px-1",
                             href: "/LOXONFT",
-                            children: "Stake LOXONFT",
+                            children: "Stake OmnixNFT",
                           }),
                           " to earn daily emissions.",
                         ],
@@ -2611,7 +2611,7 @@
         views_Dashboard = () => {
           let e = [
               { title: "Gauge Farming Rewards", id: 0 },
-              { title: "veLOXO Holders & Voters Rewards", id: 1 },
+              { title: "OMNIX Holders & Voters Rewards", id: 1 },
               { title: "OmnixNFT Stakers Rewards", id: 3 },
             ],
             {

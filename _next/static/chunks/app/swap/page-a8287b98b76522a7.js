@@ -230,15 +230,15 @@
               : o.toLowerCase()) && (u = s.WRAPPED_IOTX);
         let c = n.find(
             (e) =>
-              "WIOTX" === e.symbol ||
-              "TWIOTX" === e.symbol ||
-              "tWIOTX" === e.symbol
+              "WOMNIX" === e.symbol ||
+              "TOMNIX" === e.symbol ||
+              "tOMNIX" === e.symbol
           ),
           p = c
             ? [c]
             : [
                 {
-                  name: "wrapped IOTX Token",
+                  name: "wrapped OMNIX Token",
                   symbol: "WIOTX",
                   decimals: 18,
                   address: "0xA00744882684C3e4747faEFD68D283eA44099D03",
