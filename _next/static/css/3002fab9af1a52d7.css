@@ -1,0 +1,137 @@
+.swap_balance__jlczf {
+  color: #8e8e8e;
+  font-family: Outfit;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  text-transform: capitalize;
+}
+.swap_token_selection__dVFgI {
+  color: #eaecef;
+  font-variant-numeric: slashed-zero;
+  font-family: Outfit;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  text-transform: none !important;
+}
+.swap_button_amount__5QQUn {
+  color: #7e7e7e !important;
+  background: #222 !important;
+}
+.swap_button_amount__5QQUn,
+.swap_swap_button__2DEno {
+  font-family: Outfit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: capitalize;
+}
+.swap_fuel_accordion_title__4rBQM {
+  color: #eaecef;
+  font-family: Outfit;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  text-transform: capitalize;
+}
+hr.swap_new1__s6jkf {
+  border-top: 1px solid #fff;
+}
+.swap_fuel_fee__DQCpZ {
+  color: #8e8e8e;
+  font-family: Outfit;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+.swap_fuel_fee_amount__iJIP1 {
+  font-weight: 700;
+}
+.swap_fuel_fee_amount__iJIP1,
+.swap_fuel_fee_price__xfIXH {
+  color: #eaecef;
+  text-align: right;
+  font-family: Outfit;
+  font-size: 12px;
+  font-style: normal;
+  line-height: 20px;
+}
+.swap_fuel_fee_price__xfIXH {
+  font-weight: 400;
+}
+.swap_fuel_guid_steps__7YoEm {
+  color: #fff;
+  font-family: Outfit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: capitalize;
+  z-index: 9;
+  background: #0c0e11 !important;
+}
+.swap_fuel_guid_steps__7YoEm:hover {
+  border: 1px solid #42feae;
+  background: #0e1727;
+}
+hr.swap_new2__47Si8 {
+  border-top: 1px solid #fff;
+  position: absolute;
+  bottom: 17px;
+  width: -webkit-fill-available;
+  z-index: 0;
+}
+.swap_transaction_setting_title__xJGDA {
+  color: #eaecef;
+  font-family: Outfit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: capitalize;
+}
+.swap_transaction_setting_tolerance__14xZ3 {
+  color: #7e7e7e;
+  font-family: Outfit;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+.swap_transaction_setting_percent_btn__eYSro {
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+}
+.swap_transaction_setting_percent__38B8Q,
+.swap_transaction_setting_percent_btn__eYSro {
+  font-family: Outfit;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+  text-transform: capitalize;
+}
+.swap_transaction_setting_percent__38B8Q {
+  color: #eaecef;
+  font-size: 14px;
+}
+.swap_transaction_setting_percent_icon__Go1YT {
+  color: hsla(0, 0%, 100%, 0.91);
+}
+.swap_transaction_setting_minute__5HdcY,
+.swap_transaction_setting_percent_icon__Go1YT {
+  font-family: Outfit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  text-transform: capitalize;
+}
+.swap_transaction_setting_minute__5HdcY {
+  color: #7e7e7e;
+}

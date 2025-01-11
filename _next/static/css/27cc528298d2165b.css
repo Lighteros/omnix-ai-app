@@ -1,0 +1,217 @@
+.lock_title__JzgYp {
+  color: #eaecef;
+  font-size: 48px;
+  line-height: 48px;
+}
+.lock_learn_more__nVsXq,
+.lock_title__JzgYp {
+  font-family: Outfit;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.lock_learn_more__nVsXq {
+  color: #42feae;
+  font-size: 14px;
+  line-height: 24px;
+}
+.lock_content__atsTx {
+  color: rgba(234, 236, 239, 0.8);
+  font-family: ABeeZee, sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI,
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+.lock_add_remove_lock_btn__KISwL {
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 12px;
+}
+@media (min-width: 400px) {
+  .lock_add_remove_lock_btn__KISwL {
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 14px;
+  }
+}
+@media (min-width: 640px) {
+  .lock_add_remove_lock_btn__KISwL {
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 16px;
+  }
+}
+.lock_add_remove_lock_btn__KISwL {
+  text-align: right;
+  font-family: Outfit-SemiBold, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+.lock_filter_btn__COq_Z {
+  text-transform: capitalize;
+}
+.lock_filter_btn__COq_Z,
+.lock_stake_switch__J_mys {
+  text-align: right;
+  font-family: Outfit, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 14px;
+}
+.lock_stake_switch__J_mys {
+  color: #7e7e7e;
+}
+.lock_veNFT_button__DQADr {
+  color: #42feae;
+  text-align: right;
+  text-transform: capitalize;
+}
+.lock_after_image_title__B0egv,
+.lock_veNFT_button__DQADr {
+  font-family: Outfit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+.lock_after_image_title__B0egv {
+  color: #fff;
+}
+.lock_after_image_value__xYMc8 {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+}
+.lock_after_image_value__xYMc8,
+.lock_other_row_title__mytTU {
+  font-family: Outfit;
+  font-style: normal;
+  line-height: 12px;
+  text-transform: capitalize;
+}
+.lock_other_row_title__mytTU {
+  color: #7e7e7e;
+  text-align: right;
+  font-size: 14px;
+  font-weight: 400;
+}
+.lock_other_row_value__BqgtF {
+  color: #fff;
+  font-size: 14px;
+}
+.lock_date_error__U4v9S,
+.lock_other_row_value__BqgtF {
+  font-family: Outfit;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  text-transform: capitalize;
+}
+.lock_date_error__U4v9S {
+  border-radius: 2px;
+  background: rgba(255, 157, 0, 0.1);
+  color: #ff9d00;
+  font-size: 12px;
+  padding: 10px 35px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-top: 15px;
+}
+.tokenpair_avatarIcon__gfAGZ svg {
+  width: 100%;
+  height: 65%;
+  margin-top: 10px;
+}
+.tokenpair_token_name__Wmr48 {
+  color: #fff;
+  font-family: Outfit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+.tokenpair_details__davXi {
+  color: #707a8a;
+  font-family: Outfit;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 12px;
+}
+.mobile_card_avatarIcon__FIkgU svg {
+  width: 100%;
+  height: 100%;
+}
+.mobile_card_title__xfVPi {
+  color: #eaecef;
+  font-family: Outfit;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+.mobile_card_details__80ooW {
+  line-height: 36px;
+}
+.mobile_card_details__80ooW,
+.mobile_card_title_bar__6fcYf {
+  color: #7e7e7e;
+  font-family: Outfit;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+.mobile_card_value__S02OD {
+  font-size: 12px;
+}
+@media (min-width: 400px) {
+  .mobile_card_value__S02OD {
+    font-size: 14px;
+  }
+}
+.mobile_card_value__S02OD {
+  color: #fff;
+  font-family: Outfit;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  white-space: nowrap;
+}
+.mobile_card_manage__wu9iP {
+  color: #42feae;
+}
+.mobile_card_claim__PDGAD,
+.mobile_card_manage__wu9iP {
+  font-family: Outfit;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.mobile_card_claim__PDGAD {
+  color: #7e7e7e;
+}
+@media only screen and (max-width: 600px) {
+  .mobile_card_title__xfVPi {
+    color: #fff;
+    line-height: 20px;
+  }
+  .mobile_card_details__80ooW,
+  .mobile_card_title__xfVPi {
+    font-family: Outfit;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .mobile_card_details__80ooW {
+    color: #7e7e7e;
+    line-height: 36px;
+    text-transform: capitalize;
+  }
+}
