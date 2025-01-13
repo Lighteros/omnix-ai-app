@@ -656,7 +656,7 @@
                     className: "mb-1",
                     children: (0, l.jsx)("span", {
                       className: c().token_name,
-                      children: i,
+                      children: i.replace("IOTX", "OMNIX").replace("io","om"),
                     }),
                   }),
                   r &&

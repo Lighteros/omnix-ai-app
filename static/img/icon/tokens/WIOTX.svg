@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="383px" height="383px" viewBox="0 0 383 383" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>Group 5</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="-444.620822%" y1="-103.592148%" x2="1809.87576%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#42FFB1" offset="0%"></stop>
-            <stop stop-color="#00D3DC" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="-443.023985%" y1="-103.592148%" x2="1804.19416%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#42FFB1" offset="0%"></stop>
-            <stop stop-color="#00D3DC" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(-2458.000000, -2068.000000)">
-            <g id="Group-5" transform="translate(2461.000000, 2071.000000)">
-                <circle id="Oval" stroke="#FFFFFF" stroke-width="6" fill="#110F1C" cx="188.5" cy="188.5" r="188.5"></circle>
-                <g id="Group-4" transform="translate(61.000000, 83.000000)" fill-rule="nonzero">
-                    <g id="Group" transform="translate(0.656151, 0.000000)">
-                        <polygon id="Shape" fill="url(#linearGradient-1)" points="135.51203 0.142287384 135.51203 50.8677398 179.706945 25.5405854"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.9" points="179.706945 25.5405854 179.706945 76.2660378 223.901859 50.8677398"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.8" points="135.51203 50.8677398 135.51203 101.593192 179.706945 76.2660378"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.8" points="179.706945 76.2660378 179.706945 126.99149 223.901859 101.593192"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.8" points="135.51203 101.593192 135.51203 152.318644 179.706945 126.99149"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" points="179.706945 126.99149 179.706945 177.716943 223.901859 152.318644"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.4" points="21.2763883 49.1602911 21.2763883 99.8857435 65.4713024 74.4874455"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-2)" opacity="0.2" points="77.0376612 68.0133695 77.0376612 118.738822 121.161178 93.4116675"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.3" points="44.2663113 100.099175 44.2663113 150.824627 88.4612254 125.426329"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-2)" opacity="0.9" points="73.3964001 138.374481 73.3964001 189.099933 117.519917 163.701635"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-2)" opacity="0.7" points="135.155044 160.215594 135.155044 210.941047 179.278561 185.542749"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-2)" opacity="0.9" points="84.3915806 42.9707899 84.3915806 93.6962423 128.515097 68.369088"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.8" points="135.51203 0.142287384 135.51203 50.8677398 91.3171164 25.5405854"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.6" points="84.3915806 21.698826 84.3915806 72.4242784 40.1966666 47.0259804"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.6" points="128.586495 46.8125493 128.586495 97.5380017 84.3915806 72.1397036"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.95" points="76.8234693 68.0133695 76.8234693 118.738822 32.6285553 93.4116675"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-2)" opacity="0.6" points="135.51203 101.593192 135.51203 152.318644 91.3885137 126.99149"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.55" points="44.2663113 113.403045 44.2663113 164.128497 0.0713972763 138.730199"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" points="223.901859 50.8677398 223.901859 101.593192 179.706945 76.2660378"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.95" points="179.706945 76.2660378 179.706945 126.99149 135.51203 101.593192"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.9" points="223.901859 101.593192 223.901859 152.318644 179.706945 126.99149"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.7" points="179.706945 126.99149 179.706945 177.716943 135.51203 152.318644"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.4" points="125.730604 148.121167 125.730604 198.846619 81.5356896 173.519465"></polygon>
-                        <polygon id="Shape" fill="url(#linearGradient-1)" points="179.706945 25.5405854 179.706945 76.2660378 135.51203 50.8677398"></polygon>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="547px" height="547px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g><path style="opacity:0.995" fill="#2de1b2" d="M 249.5,0.5 C 345.253,-4.55413 424.086,29.1125 486,101.5C 542.826,176.301 559.16,259.301 535,350.5C 504.833,443.333 443.333,504.833 350.5,535C 256.17,559.803 171.17,541.803 95.5,481C 20.0341,412.29 -10.4659,327.123 4,225.5C 23.2971,131.559 76.1304,64.0592 162.5,23C 190.484,11.0517 219.484,3.55175 249.5,0.5 Z"/></g>
+<g><path style="opacity:1" fill="#000101" d="M 256.5,128.5 C 318.265,125.295 365.432,149.628 398,201.5C 422.198,247.969 422.532,294.635 399,341.5C 381.341,370.434 355.507,386.934 321.5,391C 281.686,394.253 250.019,379.92 226.5,348C 231.652,350.92 236.985,353.92 242.5,357C 269.771,367.875 295.105,364.541 318.5,347C 341.517,324.75 349.35,297.917 342,266.5C 333.305,221.901 309.139,188.735 269.5,167C 243.778,155.33 217.444,153.664 190.5,162C 184.14,165.025 177.807,167.692 171.5,170C 195.38,147.06 223.714,133.227 256.5,128.5 Z"/></g>
+<g><path style="opacity:1" fill="#000101" d="M 210.5,165.5 C 224.34,164.766 238.007,165.933 251.5,169C 258.244,170.968 264.577,173.801 270.5,177.5C 261.574,178.418 253.574,181.584 246.5,187C 204.478,227.921 191.978,276.421 209,332.5C 232.786,382.317 272.286,404.484 327.5,399C 335.324,397.423 342.991,395.256 350.5,392.5C 351.696,392.846 351.696,393.346 350.5,394C 295.053,425.515 240.719,423.848 187.5,389C 145.679,356.513 126.179,313.68 129,260.5C 133.369,209.008 160.535,177.342 210.5,165.5 Z"/></g>
 </svg>
